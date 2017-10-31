@@ -10,6 +10,7 @@ __all__ = [
     'fact',
     'hello',
     'help',
+    'image',
     'joke',
     'lyrics',
     'movie',
