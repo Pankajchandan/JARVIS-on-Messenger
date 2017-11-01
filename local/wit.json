@@ -8,5 +8,17 @@
 	"test": {
 		"intent": "xkcd",
 		"entities": []
+	},
+
+       "what is http://ahdzbook.com/data/out/240/hdwp694087183.jpg": {
+		"intent": "image",
+		"entities": [{
+                        "value": "http://ahdzbook.com/data/out/240/hdwp694087183.jpg"}]
+	},
+
+       "what is http://ahdzbook.com/data/out/240/hdwp694087183.jg": {
+		"intent": "image",
+		"entities": [{
+                        "value": "http://ahdzbook.com/data/out/240/hdwp694087183.jg"}]
 	}
 }
